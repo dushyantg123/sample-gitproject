@@ -22,6 +22,6 @@ public void setName(String name) {
 
 @Override
 public String toString() {
-	return "User [name=" + name + "]";
+	return "User [name=" + name + ", age=" + age + "]";
 }
 }
